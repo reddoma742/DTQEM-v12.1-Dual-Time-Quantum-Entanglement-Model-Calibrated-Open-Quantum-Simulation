@@ -1,3 +1,10 @@
+
+markdown
+![Berramdane Model Result](Images/DTQEM_v12.1.jpg)
+
+
+
+
 # DTQEM-v12.1-Dual-Time-Quantum-Entanglement-Model-Calibrated-Open-Quantum-Simulation
 DTQEM v12.1: open‑source two‑qubit entanglement simulator with thermal decoherence, magnetic field, quantum gates. Solves Lindblad exactly, offers inverse calibration from visibility, predicts V = D at θ=90°. Interactive GUI (desktop/mobile).
 # DTQEM v12.1 – Dual‑Time Quantum Entanglement Model
