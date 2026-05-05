@@ -1,0 +1,73 @@
+cff-version: 1.2.0
+message: "If you use DTQEM in your research, please cite it as:"
+title: "DTQEM v12.1: Dual-Time Quantum Entanglement Model"
+authors:
+  - family-names: "Berramdane"
+    given-names: "Redouane"
+    #orcid: "https://orcid.org/0000-0000-0000-0000" # ضع الـ ORCID الخاص بك إن وجد
+  - name: "DeepSeek (AI Assistant)"
+    affiliation: "深度求索 (DeepSeek)"
+  - name: "Gemini (AI Assistant)"
+  - name: "Claude (AI Assistant)"
+version: "12.1.0"
+doi: "10.5281/zenodo.XXXXXXXX" # سيتم تعبئته تلقائياً
+date-released: 2025-05-04
+url: "https://github.com/reddoma742/DTQEM-v12.1"
+license: "MIT"
+keywords:
+  - quantum entanglement
+  - open quantum systems
+  - Lindblad master equation
+  - decoherence
+  - quantum simulation
+abstract: "DTQEM v12.1 is an open-source, high-precision simulation framework for two-qubit entanglement under thermal decoherence, magnetic fields, and quantum gates. It solves the Lindblad master equation exactly using Liouvillian exponentiation, offers real-time visualisation of interference fringes, Bloch vectors, density matrices, and provides inverse calibration from experimental visibility data. The model passes all physical benchmarks (dephasing, relaxation, entropy increase) with machine precision and includes a unique testable prediction (V = D at θ = 90°)."
+---
+
+**ملاحظة:** سيزداد DOI تلقائياً بعد أول إصدار على Zenodo. لا تقم بتعبئته يدوياً (③L32).
+
+#### 2. ملف `.zenodo.json` (لتعبئة نموذج Zenodo تلقائياً)
+
+```json
+{
+    "title": "DTQEM v12.1: Dual-Time Quantum Entanglement Model",
+    "creators": [
+        {
+            "name": "Berramdane, Redouane",
+            "affiliation": "Independent Researcher",
+            "orcid": "0000-0000-0000-0000"
+        },
+        {
+            "name": "DeepSeek (AI Assistant)",
+            "affiliation": "深度求索 (DeepSeek)",
+            "type": "Other"
+        },
+        {
+            "name": "Gemini (AI Assistant)",
+            "type": "Other"
+        },
+        {
+            "name": "Claude (AI Assistant)",
+            "type": "Other"
+        }
+    ],
+    "description": "<p>DTQEM v12.1 is an open-source, high-precision simulation framework for two-qubit entanglement under thermal decoherence, magnetic fields, and quantum gates. It solves the Lindblad master equation exactly using Liouvillian exponentiation, offers real-time visualisation of interference fringes, Bloch vectors, density matrices, and provides inverse calibration from experimental visibility data. The model passes all physical benchmarks (dephasing, relaxation, entropy increase) with machine precision and includes a unique testable prediction (V = D at θ = 90°).</p>",
+    "license": {"id": "MIT"},
+    "keywords": [
+        "quantum entanglement",
+        "open quantum systems",
+        "Lindblad master equation",
+        "decoherence",
+        "quantum simulation",
+        "Python"
+    ],
+    "access_right": "open",
+    "upload_type": "software",
+    "language": "eng",
+    "communities": [
+        {"identifier": "quant-ph"}
+    ],
+    "references": [
+        "Lindblad, G. (1976). On the generators of quantum dynamical semigroups. Commun. Math. Phys. 48, 119.",
+        "Breuer, H.-P. & Petruccione, F. (2002). The Theory of Open Quantum Systems."
+    ]
+}
