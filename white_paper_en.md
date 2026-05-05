@@ -2,7 +2,7 @@
 
 **Version:** 1.0 (June 2025)  
 **Authors:** Reddouane Berramdane, DeepSeek (assistant), Gemini & Claude (critical review)  
-**Repository:** [https://github.com/reddoma742/DTQEM-v12.1](https://github.com/reddoma742/DTQEM-v12.1)
+**Repository:** [https://github.com/reddoma742/DTQEM-v12.1](https://github.com/reddoma742/DTQEM-v12.1-Dual-Time-Quantum-Entanglement-Model-Calibrated-Open-Quantum-Simulation.git)
 
 ---
 
