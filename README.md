@@ -1,3 +1,9 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20039345.svg)](https://doi.org/10.5281/zenodo.20039345)
+
+# DTQEM v12.1 - Dual-Time Quantum Entanglement Model
+**Official Academic Archive:** [https://zenodo.org/records/20039345](https://zenodo.org/records/20039345)
+
+
 
 markdown
 ![Berramdane Model Result](Images/DTQEM_v12.1.jpg)
